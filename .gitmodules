@@ -1,0 +1,3 @@
+[submodule "playwrightFunctions"]
+	path = playwrightFunctions
+	url = git@github.com:noordoostpolder/playwrightFunctions.git
